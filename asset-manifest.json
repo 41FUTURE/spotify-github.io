@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spotify/static/css/main.cc7b7cd4.css",
+    "main.js": "/spotify/static/js/main.3191ac33.js",
+    "index.html": "/spotify/index.html",
+    "main.cc7b7cd4.css.map": "/spotify/static/css/main.cc7b7cd4.css.map",
+    "main.3191ac33.js.map": "/spotify/static/js/main.3191ac33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7b7cd4.css",
+    "static/js/main.3191ac33.js"
+  ]
+}
