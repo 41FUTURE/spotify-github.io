@@ -1,8 +1,6 @@
 <p class="has-line-data" data-line-start="0" data-line-end="2">Spotify Clone with React JS<br>
   
-  <img src="https://imgur.com/IUsHpKK.jpg" alt="login">
-<img src="https://imgur.com/VdSvfLY.jpg" alt="dashboard">
-<img src="https://imgur.com/kSEP7vI.jpg" alt="respo">
+
   
 This is a Spotify Clone web application built using React JS. The application aims to mimic the functionalities of Spotify, including displaying user playlists, searching for songs and artists, and playing music.</p>
 <p class="has-line-data" data-line-start="3" data-line-end="5">Installation<br>
