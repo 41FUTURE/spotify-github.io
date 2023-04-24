@@ -1,4 +1,9 @@
 <p class="has-line-data" data-line-start="0" data-line-end="2">Spotify Clone with React JS<br>
+  
+  <img src="https://imgur.com/IUsHpKK.jpg" alt="login">
+<img src="https://imgur.com/VdSvfLY.jpg" alt="dashboard">
+<img src="https://imgur.com/kSEP7vI.jpg" alt="respo">
+  
 This is a Spotify Clone web application built using React JS. The application aims to mimic the functionalities of Spotify, including displaying user playlists, searching for songs and artists, and playing music.</p>
 <p class="has-line-data" data-line-start="3" data-line-end="5">Installation<br>
 Clone the repository: git clone <a href="https://github.com/41FUTURE/SpotifyReact-Clone.git">https://github.com/41FUTURE/SpotifyReact-Clone.git</a></p>
@@ -26,8 +31,6 @@ Contributions are welcome. Please open an issue or pull request for any changes 
 This project is licensed under the MIT License. See the LICENSE file for more information.</p>
 
 
-<img src="https://i.imgur.com/03nejOl.jpg" alt="login">
-<img src="https://imgur.com/jPkWF1b.jpg" alt="dashboard">
-<img src="https://imgur.com/EkWF7FU.jpg" alt="respo">
+
 
 
